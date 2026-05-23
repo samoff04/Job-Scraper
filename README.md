@@ -1,4 +1,4 @@
-# 💼 Job Scraper Streamlit App
+# 💼 Job Scraper App
 
 ## 🚀 Overview
 This is a simple **Streamlit web application** that scrapes job listings from a demo website and displays them in an interactive dashboard. The project demonstrates web scraping, data extraction, and UI development using Python.
