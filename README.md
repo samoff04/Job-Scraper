@@ -31,7 +31,7 @@ https://realpython.github.io/fake-jobs/
 ## Installation & Setup
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/job-scraper-streamlit.git
+git clone https://github.com/samoff04/job-scraper-streamlit.git
 cd job-scraper-streamlit
 
 ### 2. Create virtual environment (optional but recommended)
