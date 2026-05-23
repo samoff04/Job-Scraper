@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Streamlit cache/config
+.streamlit/
+
+# Output files (optional)
+jobs.csv
+
+# Jupyter (if used later)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
