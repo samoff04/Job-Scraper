@@ -18,7 +18,7 @@ This is a simple **Streamlit web application** that scrapes job listings from a 
 - Pandas
 
 ## Project Structure
-job-scraper-streamlit/
+Job-Scraper/
 ├── app.py              
 ├── scraper.py          
 ├── requirements.txt    
@@ -31,8 +31,8 @@ https://realpython.github.io/fake-jobs/
 ## Installation & Setup
 
 ### 1. Clone the repository
-git clone https://github.com/samoff04/job-scraper-streamlit.git
-cd job-scraper-streamlit
+git clone https://github.com/samoff04/Job-Scraper.git
+cd Job-Scraper
 
 ### 2. Create virtual environment (optional but recommended)
 python -m venv venv
